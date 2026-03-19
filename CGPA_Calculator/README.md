@@ -1,10 +1,28 @@
 # CGPA Calculator
 
-This program calculates the CGPA of a student.
+## 📌 Description
+This program calculates the CGPA (Cumulative Grade Point Average) based on the grades and credit hours of courses entered by the user.
 
-Features:
+## 🚀 Features
 - Input number of courses
-- Input grade and credit hours
-- Calculates CGPA
+- Enter grade points and credit hours
+- Calculates total credits and grade points
+- Displays final CGPA
 
-Language: C++
+## 🛠️ Technologies Used
+- C++
+
+## ▶️ How to Run
+1. Compile the program:
+   g++ cgpa.cpp
+2. Run:
+   ./a.out
+
+## 📷 Example Output
+Enter number of courses: 2
+Enter grade point: 8
+Enter credit hours: 3
+Enter grade point: 9
+Enter credit hours: 4
+
+CGPA: 8.57
